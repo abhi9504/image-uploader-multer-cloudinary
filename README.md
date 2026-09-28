@@ -221,3 +221,11 @@ Lecture_17_Project_2
 
 ![Image Uploader](screenshots/image-uploader.png)
 <img width="1890" height="958" alt="image" src="https://github.com/user-attachments/assets/c74f3127-ca44-40cf-b6ac-2840c5e7e864" />
+
+## 📸 Application Screenshot
+
+Here is a preview of the Image Uploader application:
+
+![Image Uploader Application](screenshots/image-uploader.png)
+<img width="1900" height="955" alt="image" src="https://github.com/user-attachments/assets/d651d3b2-4336-47ef-8b0f-8098358e4b9e" />
+
